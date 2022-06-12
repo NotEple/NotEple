@@ -24,20 +24,17 @@
 </div>
 
 ## Contact
-
-www.twitter.com/EpleWasTaken
-https://www.epledev.com
-https://discord.com/users/195228341970796544
-
-- <a href="https://www.linkedin.com/in/erlend-s-2206ab159/">
+<div>
+<a href="https://www.linkedin.com/in/erlend-s-2206ab159/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-- <a href="www.twitter.com/EpleWasTaken">
+<a href="www.twitter.com/EpleWasTaken">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </a>
-- <a href="https://www.epledev.com">
+<a href="https://www.epledev.com">
 <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
 </a>
-- <a href="https://discord.com/users/195228341970796544">
+<a href="https://discord.com/users/195228341970796544">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
 </a>
+</div>
