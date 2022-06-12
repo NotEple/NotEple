@@ -4,10 +4,12 @@
 - Age: 22
 - Hobbies: Music, video games, gym and coding
 - Occupation: Front-end Developer Student
-- Languages: HTML, CSS, JS, React.js and Node.js 
+- Languages: HTML, CSS, JS, React.js and Node.js
+
+### What I use: 
 <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="">
+    <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
