@@ -22,3 +22,14 @@
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku Badge"/>
     <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress Badge"/>
 </div>
+
+## Contact
+
+
+[My Twitter](www.twitter.com/EpleWasTaken)
+
+[My LinkedIn](https://www.linkedin.com/in/erlend-s-2206ab159/)     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Wordpress Badge"/>
+
+[My Website](https://www.epledev.com)
+
+[My Discord](https://discord.com/users/195228341970796544)
