@@ -3,7 +3,7 @@
 ## :point_down: About me
 - Age: 22
 - Hobbies: Music, video games, gym and coding
-- Occupation: Front-end Developer Student
+- Job: Front-end Developer
 - What are you working on?: My Portfolio
 
 ## :computer: What I use: 
