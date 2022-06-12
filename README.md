@@ -4,7 +4,7 @@
 - Age: 22
 - Hobbies: Music, video games, gym and coding
 - Occupation: Front-end Developer Student
-- Languages: HTML, CSS, JS, React.js and Node.js
+- What are you working on?: My Portfolio
 
 ### What I use: 
 <div id="badges">
