@@ -10,5 +10,5 @@
 <div id="badges">
     <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
     <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript Badge"/>
-    <img src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=orange" alt="HTML Badge"/>
+    <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"/>
 </div>
