@@ -27,9 +27,9 @@
 
 
 [My Twitter](www.twitter.com/EpleWasTaken)
-
-[My LinkedIn](https://www.linkedin.com/in/erlend-s-2206ab159/)     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Wordpress Badge"/>
-
+<a href="https://www.linkedin.com/in/erlend-s-2206ab159/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Wordpress Badge"/>
+</a>
 [My Website](https://www.epledev.com)
 
 [My Discord](https://discord.com/users/195228341970796544)
