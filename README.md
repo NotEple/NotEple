@@ -9,4 +9,5 @@
 ### What I use: 
 <div id="badges">
     <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
+    <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow" alt="React Badge"/>
 </div>
