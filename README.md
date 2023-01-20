@@ -3,7 +3,7 @@
 ## :point_down: About me
 - Age: 22
 - Hobbies: Music, video games, gym and coding
-- Job: Front-end Developer
+- Job: Searching for one.
 - What are you working on?: My Portfolio
 
 ## :computer: What I use: 
