@@ -31,7 +31,7 @@
 <a href="www.twitter.com/noteple">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </a>
-<a href="https://www.epledev.com">
+<a href="https://www.epledev.netlify.app">
 <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
 </a>
 <a href="https://discord.com/users/195228341970796544">
