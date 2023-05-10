@@ -1,7 +1,7 @@
 # Hey there, I'm Erlend - aka Eple 👋
 
 ## :point_down: About me
-- Age: 22
+- Age: 23
 - Hobbies: Music, video games, gym and coding
 - Job: Searching for one.
 - What are you working on?: My Portfolio
