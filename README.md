@@ -28,7 +28,7 @@
 <a href="https://www.linkedin.com/in/erlend-s-2206ab159/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="www.twitter.com/noteple">
+<a href="https://www.twitter.com/noteple">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </a>
 <a href="https://www.epledev.netlify.app">
