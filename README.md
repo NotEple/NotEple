@@ -3,7 +3,7 @@
 ## :point_down: About me
 - Age: 23
 - Hobbies: Music, video games, gym and after I learned/studied code, it has become a hobby as well.
-- Job: Searching for one.
+- Job: Intern @SyncDNA.
 - What are you working on?: My Portfolio
 
 ## :computer: What I use: 
