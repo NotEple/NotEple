@@ -3,8 +3,7 @@
 ## :point_down: About me
 - Age: 23
 - Hobbies: Music, video games, gym and after I learned/studied code, it has become a hobby as well.
-- Job: Intern @SyncDNA.
-- What are you working on?: My Portfolio
+- Job: Front-end Developer @ SyncDNA
 
 ## :computer: What I use: 
 <div id="badges">
