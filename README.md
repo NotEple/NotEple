@@ -1,7 +1,7 @@
 # Hey there, I'm Erlend - aka Eple 👋
 
 ## :point_down: About me
-- Age: 23
+- Age: 24
 - Hobbies: Music, video games, gym and after I learned/studied code, it has become a hobby as well.
 - Job: Front-end Developer @ SyncDNA
 
@@ -38,7 +38,7 @@
 </a>
 </div>
 
-## 🎵 Drum & Bass / Heavy Metal / Power Metal is life 🎵
+## 🎵 Drum & Bass / Heavy Metal is life 🎵
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1137424632&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://nowplayi.ng/playing.php)
 
