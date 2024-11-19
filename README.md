@@ -4,7 +4,7 @@
 - Age: 24
 - Hobbies: Music, video games, gym and after I learned/studied code, it has become a hobby as well.
 - Job: Front-end Developer @ SyncDNA
-- Currently working on a Twitch Chatbot/Twitch Chatbot Application build with Electron, React, TypeScript, TailwindCSS.
+- Currently working on a Twitch Chatbot/Twitch Chatbot Application built with Electron-Vite, React, TypeScript, TailwindCSS.
 
 ## :computer: What I use: 
 <div id="badges">
@@ -22,11 +22,8 @@
 </div>
 
 ## :calling: Contact
-<div style="display: flex;">
-    <a href="https://www.linkedin.com/in/erlend-s-2206ab159/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://discord.com/users/195228341970796544">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-    </a>
+<div style="display: block;">
+    <a href="https://www.linkedin.com/in/erlend-s-2206ab159/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+<a href="https://discord.com/users/195228341970796544">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/></a>
 </div>
