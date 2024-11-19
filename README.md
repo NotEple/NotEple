@@ -20,10 +20,10 @@
 
 ## :calling: Contact
 <div>
-    <a href="https://www.linkedin.com/in/erlend-s-2206ab159/" style="display: block">
+    <a href="https://www.linkedin.com/in/erlend-s-2206ab159/" style="display: block;">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://discord.com/users/195228341970796544" style="display: block">
+    <a href="https://discord.com/users/195228341970796544" style="display: block;">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
     </a>
 </div>
