@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>
-    <img src="https://img.shields.io/badge/Tailwind-563D7C?style=for-the-badge&logo=tailwind&logoColor=white" alt="Tailwind"/>
+    <img src="https://img.shields.io/badge/Tailwindcss-563D7C?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwindcss"/>
 </div>
 
 ## :calling: Contact
