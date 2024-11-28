@@ -2,8 +2,9 @@
 
 ## :point_down: About me
 - Age: 24
-- Hobbies: Music, video games, gym and after I learned/studied code, it has become a hobby as well.
-- Job: Front-end Developer @ SyncDNA
+- Hobbies: Music, video games, gym and after I learned how to code, it has become a hobby as well.
+- Job: Currently Unemployed
+- Previous Job: Junior Front-end Developer @ SyncDNA
 - Currently working on a Twitch Chatbot/Twitch Chatbot Application built with Electron-Vite, React, TypeScript, TailwindCSS.
 
 ## :computer: What I use: 
