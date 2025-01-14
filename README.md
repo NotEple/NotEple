@@ -1,4 +1,4 @@
-# Hey there, I'm Erlend - aka EPLE 👋
+# 👋 Hey there, I'm Erlend - aka EPLE
 
 ## :point_down: About me
 - Age: 24
