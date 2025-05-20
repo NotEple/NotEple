@@ -1,11 +1,11 @@
 # 👋 Hey there, I'm Erlend - aka EPLE
 
 ## :point_down: About me
-- Age: 24
+- Age: 25
 - Hobbies: Music, video games, gym and after I learned how to code, it has become a hobby as well.
 - Job: Currently Unemployed
 - Previous Job: Junior Front-end Developer @ SyncDNA
-- Currently working on a Twitch Chatbot/Twitch Chatbot Application built with Electron-Vite, React, TypeScript, TailwindCSS.
+- Currently working on/learning Svelte.
 
 ## :computer: What I use: 
 <div id="badges">
