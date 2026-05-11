@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Erlend - aka EPLE
 
 ## :point_down: About me
-- Age: 25
+- Age: 26
 - Hobbies: Music, video games, gym and after I learned how to code, it has become a hobby as well.
 - Job: Currently Unemployed
 - Previous Job: Junior Front-end Developer @ SyncDNA
